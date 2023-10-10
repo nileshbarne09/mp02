@@ -1,6 +1,7 @@
 # Assignment/Lab 1
 
-Hi from main branch.
+
+Hi from feature01 branch, main branch.
 
 ## Steps
 1. Create a github repository
